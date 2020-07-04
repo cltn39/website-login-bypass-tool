@@ -5,7 +5,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://github.com/cltn39/main-portfolio/blob/master/LICENSE)
 [![Twitter: cltn39](https://img.shields.io/twitter/follow/cltn39.svg?style=social)](https://twitter.com/cltn39)
 
-conceptional multiplayer RPG game with auto card draw combat
+The purpose of the app is to expose and prove that there's little to no security in front-end side.
 
 ## Author
 
@@ -30,6 +30,11 @@ Tools required:
 You will first require login/password and enter the information in 'config.py'
 
 depending on website, you will need to adjust the code that de-hash the password for the website. Default code uses `md_5` hashing method.
+
+## Things to improve
+
+* specific website bypass codes
+* Javascript version of bypass-tool
 
 ## Show your support
 
